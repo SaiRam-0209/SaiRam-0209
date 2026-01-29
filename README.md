@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sai Ram 👋
 
-<!--
-**SaiRam-0209/SaiRam-0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Data Engineer with 3+ years of experience building and operating distributed data platforms for batch and near real-time analytics.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Data Engineering:** Spark, PySpark, Kafka, Airflow, Trino
+- **Cloud:** AWS (EMR, S3, Lambda, SageMaker), GCP (BigQuery, GCS)
+- **Programming:** Python, SQL
+- **FinOps:** Cloud cost optimization and resource efficiency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Work On
+- Scalable data pipelines (batch & streaming)
+- Cloud-native analytics platforms
+- Data reliability and schema evolution
+- Cost-efficient data architectures
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/sairamnaveen02/
